@@ -1,7 +1,7 @@
 # wp-woo-polylang — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): makes WooCommerce multilingual on Polylang: translated catalog, synced stock and prices, and a translated cart and checkout.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
